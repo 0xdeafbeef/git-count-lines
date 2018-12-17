@@ -1,9 +1,14 @@
 # git-count-lines
 Bash script, which counts lines of code you made.
 # USAGE
-clone repo git clone https://github.com/rusmonkey/git-count-lines.git
-./git-count.sh  https://github.com/rusmonkey/rats-search.git 
-Cloning into 'temp-repo'...
+**clone repo**
+ git clone https://github.com/rusmonkey/git-count-lines.git`
+
+  **pass git repo  where you want to count lines as commandline  argument** 
+           
+      
+`./git-count.sh  https://github.com/rusmonkey/rats-search.git `
+```Cloning into 'temp-repo'...
 remote: Enumerating objects: 203, done.
 remote: Counting objects: 100% (203/203), done.
 remote: Compressing objects: 100% (183/183), done.

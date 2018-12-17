@@ -1,5 +1,5 @@
 # git-count-lines
-Bash script, which counts lines of code you made.
+Bash script, which counts lines of code you 've written.
 # USAGE
 **clone repo**
  git clone https://github.com/rusmonkey/git-count-lines.git`

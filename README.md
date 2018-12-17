@@ -6,7 +6,11 @@ Bash script, which counts lines of code you 've written.
 
   **pass git repo  where you want to count lines as commandline  argument** 
            
-      
+ **dependency:**
+ cloc
+ install it with brew / apt / any other package manager or make it from sources.
+ http://cloc.sourceforge.net/
+ 
 `./git-count.sh  https://github.com/rusmonkey/rats-search.git `
 ```Cloning into 'temp-repo'...
 remote: Enumerating objects: 203, done.
